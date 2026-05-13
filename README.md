@@ -6,4 +6,4 @@ Organized by academic year and unit.
 
 Sometimes the math is clear.
 Sometimes the code works mysteriously.
-Either way — we trust the algorithm.
+Either way - we trust the algorithm.
